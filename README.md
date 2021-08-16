@@ -6,7 +6,7 @@
 
 Telegram bot with various Sticker Tools
 
-## How to Depoy?
+## How to Deploy?
 
 ### Deploy to Heroku
 
